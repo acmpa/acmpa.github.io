@@ -1,2 +1,8 @@
-# acmpa.github.io
-American Concierge Medical Practitioners Association's Content Management System
+# American Concierge Medical Practitioners Association Website
+
+
+### Copyright
+
+Thank you to Sal for the theme design and development.
+
+
