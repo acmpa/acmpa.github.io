@@ -6,7 +6,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: ''
 email: 'acmpaorg@gmail.com'
-mailchimp-list: ''
+mailchimp-list: 'https://acmpa.us2.list-manage.com/subscribe/post?u=478ff29145438692dda1303b3&amp;id=77137a8c64'
 formspree-action: 'https://formspree.io/f/xknpbwpn'
 
 include: ["_pages"]
