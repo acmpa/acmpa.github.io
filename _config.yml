@@ -23,7 +23,7 @@ authors:
     mike:
       name:           Michael
       site:           https://www.luxhealth.com
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/avatar1.jpg
       bio:            "Hi, I am Mike, the CEO of Lux Health, the creator of the premier concierge medical practice software."
       email:          acmpaorg@gmail.com
       twitter:        https://twitter.com/mikeyotte
@@ -38,7 +38,7 @@ defaults:
     values:
       layout: post
       author: mike
-      avatar: /assets/images/avatar1.jpg
+      avatar: assets/images/avatar1.jpg
       
   # all pages
   - scope:
