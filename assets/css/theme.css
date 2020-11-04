@@ -263,11 +263,13 @@ a.text-dark:hover {
 	color:rgba(0,0,0,0.9);
 }
 .bd-search .form-control {
-	font-size:.85rem;
+	font-size: 16px;
 	color:#999;
 	border-radius:30px;
 	height:35px;
+	min-width: 300px;
 	border:1px solid #eee;
+	margin-bottom: 15px;
 }
 .mb-2rem {
 	margin-bottom:2rem;
@@ -802,5 +804,10 @@ div.a2a_full_footer {display:none;}
 	 .topfirstimage {
 		 height:280px !Important;
 	 }
+
+	 .bd-search .form-control {
+		font-size: 0.85rem;
+		margin-bottom: 0;
+	}
  }
  
