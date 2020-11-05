@@ -20,7 +20,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    mike:
+    michael:
       name:           Michael
       site:           https://www.luxhealth.com
       avatar:         assets/images/avatar1.jpg
@@ -37,7 +37,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: mike
+      author: michael
       avatar: assets/images/avatar1.jpg
       
   # all pages
